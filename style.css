@@ -416,7 +416,7 @@ button a:hover{
 }
 
 #portfolio .box img {
-  width: 100%;
+  width: 15rem !important;
   aspect-ratio: 1 / 1;
   object-fit: cover;
   border-radius: 20px;
