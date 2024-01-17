@@ -89,7 +89,7 @@ document.addEventListener("DOMContentLoaded", () => {
     navbar.classList.toggle("text-white");
     skillscontainer.classList.toggle("bg-dark");
     skillscontainerH3.classList.toggle("text-white");
-    skills.classList.toggle("bg-dark");
+    // skills.classList.toggle("bg-dark");
     skills1.classList.toggle("bg-dark");
     skills2.classList.toggle("bg-dark");
     about.classList.toggle("bg-dark");
